@@ -23,12 +23,13 @@
 }
 
 .nav-brand-quote {
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   font-weight: 500;
   color: var(--primary);
   font-style: italic;
-  max-width: 700px;
-  line-height: 1.4;
+  white-space: nowrap;
+  max-width: 800px;
+  line-height: 1;
   text-align: left;
 }
 
